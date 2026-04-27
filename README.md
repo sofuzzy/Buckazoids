@@ -1,4 +1,4 @@
-Bitcoin Core integration/staging tree
+Buckazoids Core — Bitcoin-derived blockchain node software
 =====================================
 
 https://bitcoincore.org
